@@ -5,7 +5,7 @@
  
   margin: 0 auto;
 }
-.contentWrapper {
+.infinite-scroll-component {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
